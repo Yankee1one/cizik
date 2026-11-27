@@ -11,6 +11,8 @@ En son sürümü **[Sürümler (Releases)](../../releases/latest)** sayfasından
 - **Cizik-Kurulum-x.y.z.exe**: normal kurulum (Başlat menüsüne ve masaüstüne kısayol ekler)
 - **Cizik-Tasinabilir-x.y.z.exe**: kurulum gerektirmez, USB bellekten de çalışır
 
+**Virüs taraması:** Kurulum dosyası 1.8.2, VirusTotal'da 65 antivirüs ile tarandı, hiçbiri sorun bulmadı (0/65). [Tarama sonucunu gör](https://www.virustotal.com/gui/file/52f97c6674fe127b169854d8f6c512511a3898aa310abbac05131b8029d31447)
+
 > **"Windows bilgisayarınızı korudu" uyarısı çıkarsa:** Çizik henüz dijital olarak imzalanmadığı için Windows tanımadığı programlarda bu uyarıyı gösterir. **Ek bilgi → Yine de çalıştır** ile açabilirsin.
 
 Gereksinim: Windows 10 veya 11, 64 bit.
