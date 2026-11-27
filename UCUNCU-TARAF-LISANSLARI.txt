@@ -1,0 +1,68 @@
+﻿ÇİZİK — ÜÇÜNCÜ TARAF BİLEŞEN LİSANSLARI
+
+Çizik aşağıdaki açık kaynak bileşenleri kullanır. Her biri kendi lisansıyla dağıtılır; aşağıdaki lisans metinleri asıllarıyla aynı bırakılmıştır.
+
+------------------------------------------------------------
+Paper.js 0.12.18 — çizim motoru
+http://paperjs.org/
+Lisans: MIT
+
+Copyright (c) 2011 - 2020, Jürg Lehni & Jonathan Puckey
+http://juerglehni.com/ & https://puckey.studio/
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+------------------------------------------------------------
+opentype.js 2.0.0 — yazı tipi okuyucu (yazıyı anahatlara çevirme, değişken yazı tipleri)
+https://opentype.js.org/
+Lisans: MIT
+
+The MIT License (MIT)
+
+Copyright (c) 2020 Frederik De Bleser
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------
+Electron 44.7.0 — masaüstü uygulama çatısı
+https://www.electronjs.org/
+Lisans: MIT
+Tam metin: kurulum klasöründeki LICENSE.electron.txt
+
+------------------------------------------------------------
+Chromium — Electron'un içindeki tarayıcı motoru
+https://www.chromium.org/
+Lisans: BSD ve çeşitli açık kaynak lisansları
+Tam metin: kurulum klasöründeki LICENSES.chromium.html

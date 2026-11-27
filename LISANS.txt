@@ -1,0 +1,49 @@
+﻿ÇİZİK SON KULLANICI LİSANS SÖZLEŞMESİ
+Sözleşme sürümü 1.0 — 27 Kasım 2026
+
+Telif hakkı © 2026 Furkan Korkmaz ve Serdar Mamay. Tüm hakları saklıdır.
+
+Çizik'i kurarak, kopyalayarak ya da kullanarak bu sözleşmeyi kabul etmiş olursunuz. Kabul etmiyorsanız Çizik'i kurmayın ve kullanmayın.
+
+1. KULLANIM HAKKI
+Çizik ücretsizdir. Size Çizik'i kişisel, eğitim ve ticari işlerde kullanmanız için ücretsiz, münhasır olmayan ve devredilemez bir kullanım hakkı verilir. Çizik'i istediğiniz kadar bilgisayara kurabilirsiniz.
+
+2. ÇİZİMLERİNİZ SİZİNDİR
+Çizik ile yaptığınız çizimler, belgeler ve dışa aktardığınız dosyalar size aittir. Bunları dilediğiniz gibi, ticari amaçla da kullanabilirsiniz. Bu dosyalar üzerinde hiçbir hak talep edilmez.
+
+3. PAYLAŞMA
+Çizik'in değiştirilmemiş kurulum dosyasını, ücret almadan başkalarıyla paylaşabilirsiniz.
+
+4. YAPAMAYACAKLARINIZ
+a) Çizik'i ya da bir kopyasını satamaz, kiralayamaz, ücret karşılığında dağıtamazsınız.
+b) Çizik'in değiştirilmiş bir kopyasını dağıtamazsınız.
+c) Yasaların açıkça izin verdiği durumlar dışında Çizik'i tersine mühendislikle çözümleyemez, kaynak koduna dönüştüremez, kodunu başka bir yazılımda kullanamazsınız.
+d) Çizik'i başka bir ad altında ya da kendi ürününüz gibi yayımlayamazsınız.
+e) Telif hakkı ve lisans bildirimlerini kaldıramaz ya da değiştiremezsiniz.
+
+5. MÜLKİYET
+Çizik'in kodu, adı, simgesi ve tasarımı Furkan Korkmaz ve Serdar Mamay'a aittir. Bu sözleşme size yalnızca kullanım hakkı verir, mülkiyeti devretmez.
+
+6. ÜÇÜNCÜ TARAF BİLEŞENLER
+Çizik, kendi açık kaynak lisanslarıyla dağıtılan bileşenler içerir: Paper.js (MIT), opentype.js (MIT), Electron (MIT) ve Chromium (çeşitli açık kaynak lisansları). Bu bileşenler için kendi lisansları geçerlidir. Ayrıntılar UCUNCU-TARAF-LISANSLARI.txt, LICENSE.electron.txt ve LICENSES.chromium.html dosyalarındadır.
+
+7. GİZLİLİK
+Çizik internete bağlanmaz, hesap istemez, kullanım verisi ya da kişisel veri toplamaz ve hiçbir yere göndermez. Belgeleriniz yalnızca sizin bilgisayarınızda saklanır.
+
+8. TİCARİ MARKALAR
+Çizik'in Adobe Inc. ile hiçbir bağlantısı yoktur ve Adobe tarafından desteklenmez. Adobe ve Illustrator, Adobe Inc.'in ticari markalarıdır. Çizik'teki simgeler Çizik için özgün olarak çizilmiştir.
+
+9. GARANTİ YOKTUR
+Çizik ücretsiz olarak "olduğu gibi" sunulur. Hatasız ya da kesintisiz çalışacağı, belirli bir işe uygun olduğu konusunda hiçbir garanti verilmez. Önemli belgelerinizi düzenli olarak yedekleyin.
+
+10. SORUMLULUĞUN SINIRI
+Yürürlükteki yasaların izin verdiği en geniş ölçüde, Çizik'in kullanımından ya da kullanılamamasından doğan veri kaybı, kâr kaybı ya da başka herhangi bir zarardan telif sahipleri sorumlu tutulamaz.
+
+11. SÖZLEŞMENİN SONA ERMESİ
+Bu koşullardan birine uymazsanız kullanım hakkınız kendiliğinden sona erer. Bu durumda Çizik'i silmeniz gerekir.
+
+12. UYGULANACAK HUKUK
+Bu sözleşmeye Türkiye Cumhuriyeti hukuku uygulanır.
+
+13. İLETİŞİM
+Soru, hata bildirimi ve öneriler için: cizik.destek@gmail.com
